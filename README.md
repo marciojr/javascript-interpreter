@@ -1,4 +1,4 @@
-# javascript-interpreter
+# Projeto Paradigmas em liguagens computacionais-PLC 2015.2
 interpretador javascript feito em haskell
 
-h1 Haskell / JavaScript
+Haskell / JavaScript
